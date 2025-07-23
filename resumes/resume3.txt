@@ -1,0 +1,4 @@
+Alex Johnson
+Machine Learning Engineer with expertise in Scikit-Learn, TensorFlow, and Natural Language Processing.
+Worked on multiple AI projects including recommendation systems and chatbots.
+Passionate about AI and deep learning.

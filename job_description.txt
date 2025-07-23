@@ -1,0 +1,33 @@
+Job Title: Python Developer – Backend Engineer
+
+Company Overview:
+We are a fast-growing tech startup focused on building scalable, data-driven platforms in the HR and EdTech space. We're hiring passionate backend developers who thrive in solving real-world problems using modern tools and best practices.
+
+Responsibilities:
+- Design, build, and maintain efficient, reusable, and reliable Python code
+- Work extensively with frameworks like Django or Flask
+- Build RESTful APIs to serve data to front-end teams and clients
+- Integrate third-party services and manage cloud-based infrastructure (AWS/GCP preferred)
+- Develop and maintain PostgreSQL or MySQL databases
+- Write unit and integration tests to ensure software quality
+- Collaborate with product managers, designers, and other developers in an Agile environment
+- Use version control tools like Git and GitHub for code management
+- Participate in code reviews and contribute to continuous improvement
+
+Requirements:
+- 1+ years of experience in Python development
+- Strong understanding of Object-Oriented Programming
+- Experience with Django, Flask, or FastAPI
+- Experience working with databases and writing SQL queries
+- Familiarity with Docker, Git, and cloud deployment pipelines
+- Strong problem-solving and debugging skills
+- Ability to work independently and in a team
+
+Preferred:
+- Knowledge of machine learning pipelines or data processing
+- Prior experience in HRTech or EdTech domains
+- Experience with CI/CD tools like Jenkins or GitHub Actions
+
+Location: Remote / Hybrid
+
+Apply only if you are serious about learning and contributing to a fast-paced, mission-driven team.

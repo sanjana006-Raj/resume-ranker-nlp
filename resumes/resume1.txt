@@ -1,0 +1,4 @@
+John Doe
+Software Developer with 3 years of experience in Python and Django.
+Skilled in REST APIs, PostgreSQL, Git, and Agile methodologies.
+Looking for a backend developer position.

@@ -1,0 +1,4 @@
+Jane Smith
+Data Analyst with 2+ years of experience in data cleaning, visualization, and dashboarding.
+Strong skills in Excel, Power BI, and Python (pandas, numpy).
+Interested in data science and analytics roles.
